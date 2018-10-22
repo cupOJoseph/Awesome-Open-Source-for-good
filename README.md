@@ -19,3 +19,6 @@ An Awesome list of Open Source projects which do good for the world.
 ## Health
 - [OpenEHR](https://openehr.org/): An open domain-driven platform for developing flexible e-health systems
 - [OpenMRS](https://openmrs.org): A software platform and a reference application which enables design of a customized medical records system with no programming knowledge
+
+## Security
+- [Martus](https://www.martus.org/): Secure information collection and management tool that empowers human rights activists to be stronger in their fight against injustice and abuse. 
