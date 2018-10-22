@@ -4,6 +4,7 @@ An Awesome list of Open Source projects which do good for the world.
 ## Contents
 - [Civic](#civic)
 - [Decentralization](#decentralization)
+- [Education](#education)
 - [Environment](#enviorment)
 - [Health](#health)
 - [Security](security)
@@ -15,7 +16,11 @@ An Awesome list of Open Source projects which do good for the world.
 ## Decentralization
 - [Ethereum Foundation](https://www.ethereum.org/foundation): Supports a more globally accessible, more free and more trustworthy Internet
 
-## Enviorment
+## Education
+- [freeCodeCamp](https://www.freecodecamp.org/): Learn to code for free together with millions of people.
+- [The Odin Project](https://www.theodinproject.com/): Open curriculum for learning web development. 
+
+## Enviornment
 - [Moja Global](http://moja.global/): Tools for tracking emmissions.
 - [BioJava](https://biojava.org/): A Java framework for processing biological data.
 
