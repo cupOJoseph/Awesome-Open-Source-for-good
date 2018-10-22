@@ -20,7 +20,7 @@ An Awesome list of Open Source projects which do good for the world.
 - [freeCodeCamp](https://www.freecodecamp.org/): Learn to code for free together with millions of people.
 - [The Odin Project](https://www.theodinproject.com/): Open curriculum for learning web development. 
 
-## Enviornment
+## Environment
 - [Moja Global](http://moja.global/): Tools for tracking emmissions.
 - [BioJava](https://biojava.org/): A Java framework for processing biological data.
 
