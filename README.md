@@ -8,15 +8,15 @@ An Awesome list of Open Source projects which do good for the world.
 - [Health](#health)
 - [Security](security)
 
-
 ## Civic
 - [Code for America](https://www.codeforamerica.org/): On a mission to make government work in the digital age.
 
 ## Decentralization
 - [Ethereum Foundation](https://www.ethereum.org/foundation): Supports a more globally accessible, more free and more trustworthy Internet
 
-## Environment
+## Enviorment
 - [Moja Global](http://moja.global/): Tools for tracking emmissions.
+- [BioJava](https://biojava.org/): A Java framework for processing biological data.
 
 ## Health
 - [OpenEHR](https://openehr.org/): An open domain-driven platform for developing flexible e-health systems
