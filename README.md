@@ -16,5 +16,6 @@ An Awesome list of Open Source projects which do good for the world.
 ## Environment
 - [Moja Global](http://moja.global/): Tools for tracking emmissions.
 
-
+## Security
+- [Martus](https://www.martus.org/): Secure information collection and management tool that empowers human rights activists to be stronger in their fight against injustice and abuse. 
 
