@@ -5,6 +5,7 @@ An Awesome list of Open Source projects which do good for the world.
 - [Civic](#civic)
 - [Decentralization](#decentralization)
 - [Enviorment](#enviorment)
+- [Health](#health)
 
 
 ## Civic
@@ -16,5 +17,6 @@ An Awesome list of Open Source projects which do good for the world.
 ## Enviorment
 - [Moja Global](http://moja.global/): Tools for tracking emmissions.
 
-
+## Health
+- [ClearHealth](http://clear-health.com/): Practice management (PM) and electronic medical records (EMR/EHR/PHR) system available under the GNU General Public License.
 
