@@ -5,6 +5,8 @@ An Awesome list of Open Source projects which do good for the world.
 - [Civic](#civic)
 - [Decentralization](#decentralization)
 - [Environment](#enviorment)
+- [Health](#health)
+- [Security](security)
 
 
 ## Civic
