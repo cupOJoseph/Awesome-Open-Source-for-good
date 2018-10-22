@@ -10,6 +10,7 @@ An Awesome list of Open Source projects which do good for the world.
 
 ## Civic
 - [Code for America](https://www.codeforamerica.org/): On a mission to make government work in the digital age.
+- [Sahana project for disaster managment](https://sahanafoundation.org/): Sahana Eden is an Open Source Humanitarian Platform which can be used to provide solutions for Disaster Management, Development, and Environmental Management sectors
 
 ## Decentralization
 - [Ethereum Foundation](https://www.ethereum.org/foundation): Supports a more globally accessible, more free and more trustworthy Internet
