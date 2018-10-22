@@ -12,6 +12,7 @@ An Awesome list of Open Source projects which do good for the world.
 
 ## Decentralization
 - [Ethereum Foundation](https://www.ethereum.org/foundation): Supports a more globally accessible, more free and more trustworthy Internet
+- [Scuttlebutt](https://www.scuttlebutt.nz/): A decent(ralised) secure gossip platform
 
 ## Enviorment
 - [Moja Global](http://moja.global/): Tools for tracking emmissions.
