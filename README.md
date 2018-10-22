@@ -13,6 +13,9 @@ An Awesome list of Open Source projects which do good for the world.
 ## Decentralization
 - [Ethereum Foundation](https://www.ethereum.org/foundation): Supports a more globally accessible, more free and more trustworthy Internet
 
+## Programming
+- [VSCode](https://code.visualstudio.com): VS Code is a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
+
 ## Environment
 - [Moja Global](http://moja.global/): Tools for tracking emmissions.
 
