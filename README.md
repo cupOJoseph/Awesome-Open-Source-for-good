@@ -14,7 +14,7 @@ An Awesome list of Open Source projects which do good for the world.
 - [Ethereum Foundation](https://www.ethereum.org/foundation): Supports a more globally accessible, more free and more trustworthy Internet
 
 ## Enviorment
-[Moja Global](http://moja.global/): Tools for tracking emmissions.
+- [Moja Global](http://moja.global/): Tools for tracking emmissions.
 
 
 
