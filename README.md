@@ -18,7 +18,8 @@ An Awesome list of Open Source projects which do good for the world.
 
 ## Education
 - [freeCodeCamp](https://www.freecodecamp.org/): Learn to code for free together with millions of people.
-- [The Odin Project](https://www.theodinproject.com/): Open curriculum for learning web development. 
+- [The Odin Project](https://www.theodinproject.com/): Open curriculum for learning web development.
+- [Visual Studio Code](https://code.visualstudio.com/): A free and cross-platform text editor.
 
 ## Environment
 - [Moja Global](http://moja.global/): Tools for tracking emmissions.
