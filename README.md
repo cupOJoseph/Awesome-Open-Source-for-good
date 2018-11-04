@@ -19,6 +19,8 @@ An Awesome list of Open Source projects which do good for the world.
 ## Decentralization
 
 - [Ethereum Foundation](https://www.ethereum.org/foundation): Supports a more globally accessible, more free and more trustworthy Internet
+- [IPFS](https://github.com/ipfs/ipfs): Distributed file storage system that aims to replace HTTP.
+- [BitTorrent](https://github.com/bittorrent): Peer-to-peer protocol for distribute file sharing. 
 
 ## Education
 
@@ -38,5 +40,6 @@ An Awesome list of Open Source projects which do good for the world.
 - [Bahmni](https://www.bahmni.org/): An easy to use EMR and hospital system. It combines and enhances existing open source products into a single solution.
 
 ## Security
+- [Martus](https://www.martus.org/): Secure information collection and management tool that empowers human rights activists to be stronger in their fight against injustice and abuse. 
+- [Let's Encrypt](https://github.com/letsencrypt): Free, automated, open certificate authority. 
 
-- [Martus](https://www.martus.org/): Secure information collection and management tool that empowers human rights activists to be stronger in their fight against injustice and abuse.
